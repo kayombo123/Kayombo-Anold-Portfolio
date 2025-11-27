@@ -37,7 +37,7 @@ MyCV/
    - Go to [GitHub](https://github.com) and sign in
    - Click the "+" icon in the top right corner
    - Select "New repository"
-   - Name it `MyCV` or `kayombo-anold-portfolio`
+   - Name it `kayombo-anold-portfolio`
    - Make it **Public** (required for free GitHub Pages)
    - Don't initialize with README (you already have one)
 
@@ -51,7 +51,7 @@ MyCV/
    - Scroll down to "Pages" section
    - Under "Source", select the `main` branch (or `master`)
    - Click "Save"
-   - Your site will be live at: `https://[your-username].github.io/[repository-name]`
+ 
 
 ### Option 2: Using Git Command Line
 
@@ -125,4 +125,5 @@ This project is open source and available for personal use.
 ---
 
 Made with ❤️ for showcasing professional achievements and expertise in Cybersecurity and IT.
+
 
